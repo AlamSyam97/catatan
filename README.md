@@ -1,3 +1,3 @@
 # catatan 
 
-edit tampilan app
+edit tampilan profil dan menjalankan alur
