@@ -1,3 +1,3 @@
 # catatan 
 
-edit tampilan profil dan menjalankan alur
+edit tampilan dan menjalankan CRUD
