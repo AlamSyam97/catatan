@@ -1,3 +1,3 @@
 # catatan 
 
-edit tampilan dan menjalankan CRUD
+edit tampilan dan menjalankan algoritma ni
