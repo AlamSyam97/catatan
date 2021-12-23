@@ -1,3 +1,3 @@
 # catatan 
 
-edit tampilan dan menjalankan algoritma ni
+edit tampilan dan database fitur percakapan.
