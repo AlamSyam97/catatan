@@ -1,3 +1,2 @@
 # catatan 
-
-edit tampilan dan database fitur percakapan.
+edit tampilan dan membuat ide bisnis dari aplikasi yang kami buat.
