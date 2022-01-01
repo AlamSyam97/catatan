@@ -1,2 +1,2 @@
 # catatan
-ralat file dan presentasi
+ralat file dan presentasi projek
