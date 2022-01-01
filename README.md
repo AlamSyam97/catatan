@@ -1,2 +1,2 @@
-# catatan 
-crud dan finishing
+# catatan
+ralat file dan presentasi
